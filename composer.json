@@ -1,7 +1,7 @@
 {
-  "name": "hiropeke/slim-blade-view",
+  "name": "buchin/slim-blade-view",
   "type": "library",
-  "description": "Slim Framework 3 view helper built on the Blade component",
+  "description": "Blade for Slim Framework 3 with Custom Directive",
   "keywords": [
     "slim",
     "framework",
@@ -15,6 +15,10 @@
     {
       "name": "Hiroaki Matsuura",
       "email": "hiropeke.jp@gmail.com"
+    },
+    {
+      "name": "Mochammad Masbuchin",
+      "email": "buchin@dropsugar.com"
     }
   ],
   "require": {
